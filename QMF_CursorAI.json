@@ -1,0 +1,1775 @@
+[
+  {
+    "Country_Name": "United States",
+    "Country_Index": 1,
+    "Population": "331 million",
+    "GDP": "21.43 trillion USD",
+    "Largest_Import": "Electronics",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "14"
+  },
+  {
+    "Country_Name": "Afghanistan",
+    "Country_Index": 2,
+    "Population": "38 million",
+    "GDP": "19.81 billion USD",
+    "Largest_Import": "Wheat",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "153"
+  },
+  {
+    "Country_Name": "Albania",
+    "Country_Index": 3,
+    "Population": "2.8 million",
+    "GDP": "15.29 billion USD",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Textiles",
+    "Happiness_Score": "106"
+  },
+  {
+    "Country_Name": "Algeria",
+    "Country_Index": 4,
+    "Population": "43 million",
+    "GDP": "167.55 billion USD",
+    "Largest_Import": "Industrial Machinery",
+    "Largest_Export": "Petroleum and natural gas",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Andorra",
+    "Country_Index": 5,
+    "Population": "77 thousand",
+    "GDP": "3.15 billion USD",
+    "Largest_Import": "Consumer Goods",
+    "Largest_Export": "Tourism",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Angola",
+    "Country_Index": 6,
+    "Population": "32 million",
+    "GDP": "62.72 billion USD",
+    "Largest_Import": "Machinery and Electrical Equipment",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Antigua and Barbuda",
+    "Country_Index": 7,
+    "Population": "97 thousand",
+    "GDP": "1.61 billion USD",
+    "Largest_Import": "Food and Live Animals",
+    "Largest_Export": "Tourism",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Argentina",
+    "Country_Index": 8,
+    "Population": "45 million",
+    "GDP": "389.58 billion USD",
+    "Largest_Import": "Vehicles",
+    "Largest_Export": "Soybean Meal",
+    "Happiness_Score": "55"
+  },
+  {
+    "Country_Name": "Armenia",
+    "Country_Index": 9,
+    "Population": "3 million",
+    "GDP": "12.4 billion USD",
+    "Largest_Import": "Natural Gas",
+    "Largest_Export": "Copper Ore",
+    "Happiness_Score": "116"
+  },
+  {
+    "Country_Name": "Australia",
+    "Country_Index": 10,
+    "Population": "25 million",
+    "GDP": "1.33 trillion USD",
+    "Largest_Import": "Machinery and Transport Equipment",
+    "Largest_Export": "Iron Ore",
+    "Happiness_Score": "12"
+  },
+  {
+    "Country_Name": "Austria",
+    "Country_Index": 11,
+    "Population": "8.9 million",
+    "GDP": "417.9 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Packaged Medicaments",
+    "Happiness_Score": "10"
+  },
+  {
+    "Country_Name": "Azerbaijan",
+    "Country_Index": 12,
+    "Population": "10 million",
+    "GDP": "40.75 billion USD",
+    "Largest_Import": "Machinery and Equipment",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "90"
+  },
+  {
+    "Country_Name": "Bahamas",
+    "Country_Index": 13,
+    "Population": "393,000",
+    "GDP": "12 billion USD",
+    "Largest_Import": "Machinery and Transport Equipment",
+    "Largest_Export": "Mineral Products",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Bahrain",
+    "Country_Index": 14,
+    "Population": "1.7 million",
+    "GDP": "38.57 billion USD",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Petroleum and Gas",
+    "Happiness_Score": "40"
+  },
+  {
+    "Country_Name": "Bangladesh",
+    "Country_Index": 15,
+    "Population": "164 million",
+    "GDP": "302 billion USD",
+    "Largest_Import": "Cotton",
+    "Largest_Export": "Textiles",
+    "Happiness_Score": "107"
+  },
+  {
+    "Country_Name": "Barbados",
+    "Country_Index": 16,
+    "Population": "287,000",
+    "GDP": "4.8 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Hard Liquor",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Belarus",
+    "Country_Index": 17,
+    "Population": "9.4 million",
+    "GDP": "60 billion USD",
+    "Largest_Import": "Machinery and Equipment",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "75"
+  },
+  {
+    "Country_Name": "Belgium",
+    "Country_Index": 18,
+    "Population": "11.5 million",
+    "GDP": "532 billion USD",
+    "Largest_Import": "Vehicles",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "20"
+  },
+  {
+    "Country_Name": "Belize",
+    "Country_Index": 19,
+    "Population": "397,000",
+    "GDP": "1.88 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Sugar",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Benin",
+    "Country_Index": 20,
+    "Population": "11.8 million",
+    "GDP": "14.39 billion USD",
+    "Largest_Import": "Rice",
+    "Largest_Export": "Cotton",
+    "Happiness_Score": "102"
+  },
+  {
+    "Country_Name": "Bhutan",
+    "Country_Index": 21,
+    "Population": "771,000",
+    "GDP": "2.53 billion USD",
+    "Largest_Import": "Fuel",
+    "Largest_Export": "Ferrosilicon",
+    "Happiness_Score": "95"
+  },
+  {
+    "Country_Name": "Bolivia",
+    "Country_Index": 22,
+    "Population": "11.6 million",
+    "GDP": "40.29 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Petroleum Gas",
+    "Happiness_Score": "61"
+  },
+  {
+    "Country_Name": "Bosnia and Herzegovina",
+    "Country_Index": 23,
+    "Population": "3.3 million",
+    "GDP": "20 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Seats",
+    "Happiness_Score": "78"
+  },
+  {
+    "Country_Name": "Botswana",
+    "Country_Index": 24,
+    "Population": "2.3 million",
+    "GDP": "18.34 billion USD",
+    "Largest_Import": "Machinery and Electrical Equipment",
+    "Largest_Export": "Diamonds",
+    "Happiness_Score": "84"
+  },
+  {
+    "Country_Name": "Brazil",
+    "Country_Index": 25,
+    "Population": "212 million",
+    "GDP": "1.44 trillion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Soybeans",
+    "Happiness_Score": "32"
+  },
+  {
+    "Country_Name": "Brunei",
+    "Country_Index": 26,
+    "Population": "433,000",
+    "GDP": "13.47 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Bulgaria",
+    "Country_Index": 27,
+    "Population": "7 million",
+    "GDP": "67.93 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "97"
+  },
+  {
+    "Country_Name": "Burkina Faso",
+    "Country_Index": 28,
+    "Population": "20.9 million",
+    "GDP": "16.34 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "114"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Country_Index": 29,
+    "Population": "11.9 million",
+    "GDP": "2.42 billion USD",
+    "Largest_Import": "Palm Oil",
+    "Largest_Export": "Coffee",
+    "Happiness_Score": "145"
+  },
+  {
+    "Country_Name": "Cabo Verde",
+    "Country_Index": 30,
+    "Population": "555,000",
+    "GDP": "1.98 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Cambodia",
+    "Country_Index": 31,
+    "Population": "16.5 million",
+    "GDP": "27 billion USD",
+    "Largest_Import": "Textiles",
+    "Largest_Export": "Clothing",
+    "Happiness_Score": "114"
+  },
+  {
+    "Country_Name": "Cameroon",
+    "Country_Index": 32,
+    "Population": "26.5 million",
+    "GDP": "38.68 billion USD",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "123"
+  },
+  {
+    "Country_Name": "Canada",
+    "Country_Index": 33,
+    "Population": "38 million",
+    "GDP": "1.64 trillion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "11"
+  },
+  {
+    "Country_Name": "Cape Verde",
+    "Country_Index": 34,
+    "Population": "555,000",
+    "GDP": "1.98 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Central African Republic",
+    "Country_Index": 35,
+    "Population": "4.8 million",
+    "GDP": "2.22 billion USD",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Diamonds",
+    "Happiness_Score": "149"
+  },
+  {
+    "Country_Name": "Chad",
+    "Country_Index": 36,
+    "Population": "16.4 million",
+    "GDP": "11.3 billion USD",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Crude Oil",
+    "Happiness_Score": "132"
+  },
+  {
+    "Country_Name": "Chile",
+    "Country_Index": 37,
+    "Population": "19.1 million",
+    "GDP": "282 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Copper",
+    "Happiness_Score": "26"
+  },
+  {
+    "Country_Name": "China",
+    "Country_Index": 38,
+    "Population": "1.4 billion",
+    "GDP": "14.34 trillion USD",
+    "Largest_Import": "Integrated Circuits",
+    "Largest_Export": "Broadcasting Equipment",
+    "Happiness_Score": "72"
+  },
+  {
+    "Country_Name": "Colombia",
+    "Country_Index": 39,
+    "Population": "50.9 million",
+    "GDP": "323.8 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coal Briquettes",
+    "Happiness_Score": "43"
+  },
+  {
+    "Country_Name": "Comoros",
+    "Country_Index": 40,
+    "Population": "869,000",
+    "GDP": "1.18 billion USD",
+    "Largest_Import": "Rice",
+    "Largest_Export": "Cloves",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Congo (Brazzaville)",
+    "Country_Index": 41,
+    "Population": "5.5 million",
+    "GDP": "11.5 billion USD",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "103"
+  },
+  {
+    "Country_Name": "Congo (Kinshasa)",
+    "Country_Index": 42,
+    "Population": "89.6 million",
+    "GDP": "47.24 billion USD",
+    "Largest_Import": "Food Products",
+    "Largest_Export": "Raw Minerals",
+    "Happiness_Score": "150"
+  },
+  {
+    "Country_Name": "Costa Rica",
+    "Country_Index": 43,
+    "Population": "5.1 million",
+    "GDP": "61.02 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Medical Instruments",
+    "Happiness_Score": "16"
+  },
+  {
+    "Country_Name": "Croatia",
+    "Country_Index": 44,
+    "Population": "4.1 million",
+    "GDP": "60.88 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "23"
+  },
+  {
+    "Country_Name": "Cuba",
+    "Country_Index": 45,
+    "Population": "11.3 million",
+    "GDP": "N/A",
+    "Largest_Import": "Wheat",
+    "Largest_Export": "Sugar",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Cyprus",
+    "Country_Index": 46,
+    "Population": "1.2 million",
+    "GDP": "24.95 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Medicaments",
+    "Happiness_Score": "49"
+  },
+  {
+    "Country_Name": "Czech Republic",
+    "Country_Index": 47,
+    "Population": "10.7 million",
+    "GDP": "246 billion USD",
+    "Largest_Import": "Vehicle Parts",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "18"
+  },
+  {
+    "Country_Name": "Denmark",
+    "Country_Index": 48,
+    "Population": "5.8 million",
+    "GDP": "355 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Packaged Medicaments",
+    "Happiness_Score": "2"
+  },
+  {
+    "Country_Name": "Djibouti",
+    "Country_Index": 49,
+    "Population": "988,000",
+    "GDP": "3.32 billion USD",
+    "Largest_Import": "Raw Sugar",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Dominica",
+    "Country_Index": 50,
+    "Population": "71,986",
+    "GDP": "0.5 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Medical Instruments",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Dominican Republic",
+    "Country_Index": 51,
+    "Population": "10.8 million",
+    "GDP": "88.94 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "77"
+  },
+  {
+    "Country_Name": "Ecuador",
+    "Country_Index": 52,
+    "Population": "17.6 million",
+    "GDP": "107.4 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "50"
+  },
+  {
+    "Country_Name": "Egypt",
+    "Country_Index": 53,
+    "Population": "102 million",
+    "GDP": "363.1 billion USD",
+    "Largest_Import": "Wheat",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "137"
+  },
+  {
+    "Country_Name": "El Salvador",
+    "Country_Index": 54,
+    "Population": "6.5 million",
+    "GDP": "27.02 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Knit Sweaters",
+    "Happiness_Score": "35"
+  },
+  {
+    "Country_Name": "Equatorial Guinea",
+    "Country_Index": 55,
+    "Population": "1.4 million",
+    "GDP": "10.12 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Eritrea",
+    "Country_Index": 56,
+    "Population": "3.5 million",
+    "GDP": "N/A",
+    "Largest_Import": "Machinery",
+    "Largest_Export": "Ore",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Estonia",
+    "Country_Index": 57,
+    "Population": "1.3 million",
+    "GDP": "31.5 billion USD",
+    "Largest_Import": "Machinery and Equipment",
+    "Largest_Export": "Broadcast Equipment",
+    "Happiness_Score": "54"
+  },
+  {
+    "Country_Name": "Eswatini",
+    "Country_Index": 58,
+    "Population": "1.2 million",
+    "GDP": "4.47 billion USD",
+    "Largest_Import": "Motor Cars",
+    "Largest_Export": "Sugar",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Ethiopia",
+    "Country_Index": 59,
+    "Population": "114 million",
+    "GDP": "96.11 billion USD",
+    "Largest_Import": "Planes, Helicopters, and/or Spacecraft",
+    "Largest_Export": "Coffee",
+    "Happiness_Score": "126"
+  },
+  {
+    "Country_Name": "Fiji",
+    "Country_Index": 60,
+    "Population": "896,000",
+    "GDP": "5.5 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Water",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Finland",
+    "Country_Index": 61,
+    "Population": "5.5 million",
+    "GDP": "274 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "1"
+  },
+  {
+    "Country_Name": "France",
+    "Country_Index": 62,
+    "Population": "67 million",
+    "GDP": "2.78 trillion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Aircraft, Helicopters, and/or Spacecraft",
+    "Happiness_Score": "23"
+  },
+  {
+    "Country_Name": "Gabon",
+    "Country_Index": 63,
+    "Population": "2.2 million",
+    "GDP": "15.66 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Gambia",
+    "Country_Index": 64,
+    "Population": "2.4 million",
+    "GDP": "1.7 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Raw Nuts",
+    "Happiness_Score": "120"
+  },
+  {
+    "Country_Name": "Georgia",
+    "Country_Index": 65,
+    "Population": "3.7 million",
+    "GDP": "15.95 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Copper Ore",
+    "Happiness_Score": "89"
+  },
+  {
+    "Country_Name": "Germany",
+    "Country_Index": 66,
+    "Population": "83 million",
+    "GDP": "3.86 trillion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "17"
+  },
+  {
+    "Country_Name": "Ghana",
+    "Country_Index": 67,
+    "Population": "31 million",
+    "GDP": "66.98 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "104"
+  },
+  {
+    "Country_Name": "Greece",
+    "Country_Index": 68,
+    "Population": "10.4 million",
+    "GDP": "209.85 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "87"
+  },
+  {
+    "Country_Name": "Grenada",
+    "Country_Index": 69,
+    "Population": "112,523",
+    "GDP": "1.12 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Nutmeg, mace and cardamoms",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Guatemala",
+    "Country_Index": 70,
+    "Population": "17.9 million",
+    "GDP": "76.71 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Bananas",
+    "Happiness_Score": "30"
+  },
+  {
+    "Country_Name": "Guinea",
+    "Country_Index": 71,
+    "Population": "12.8 million",
+    "GDP": "16.37 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "121"
+  },
+  {
+    "Country_Name": "Guinea-Bissau",
+    "Country_Index": 72,
+    "Population": "1.9 million",
+    "GDP": "1.29 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Non-fillet Frozen Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Guyana",
+    "Country_Index": 73,
+    "Population": "786,552",
+    "GDP": "5.17 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Haiti",
+    "Country_Index": 74,
+    "Population": "11.4 million",
+    "GDP": "8.41 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Knit T-shirts",
+    "Happiness_Score": "147"
+  },
+  {
+    "Country_Name": "Honduras",
+    "Country_Index": 75,
+    "Population": "9.9 million",
+    "GDP": "23.94 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coffee",
+    "Happiness_Score": "94"
+  },
+  {
+    "Country_Name": "Hungary",
+    "Country_Index": 76,
+    "Population": "9.6 million",
+    "GDP": "155.7 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "62"
+  },
+  {
+    "Country_Name": "Iceland",
+    "Country_Index": 77,
+    "Population": "343,000",
+    "GDP": "24 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Fish Fillets",
+    "Happiness_Score": "4"
+  },
+  {
+    "Country_Name": "India",
+    "Country_Index": 78,
+    "Population": "1.38 billion",
+    "GDP": "2.87 trillion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "139"
+  },
+  {
+    "Country_Name": "Indonesia",
+    "Country_Index": 79,
+    "Population": "273 million",
+    "GDP": "1.12 trillion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coal Briquettes",
+    "Happiness_Score": "82"
+  },
+  {
+    "Country_Name": "Iran",
+    "Country_Index": 80,
+    "Population": "83 million",
+    "GDP": "610.66 billion USD",
+    "Largest_Import": "Corn",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "118"
+  },
+  {
+    "Country_Name": "Iraq",
+    "Country_Index": 81,
+    "Population": "40 million",
+    "GDP": "234.09 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "126"
+  },
+  {
+    "Country_Name": "Ireland",
+    "Country_Index": 82,
+    "Population": "4.9 million",
+    "GDP": "388.7 billion USD",
+    "Largest_Import": "Planes, Helicopters, and/or Spacecraft",
+    "Largest_Export": "Packaged Medicaments",
+    "Happiness_Score": "13"
+  },
+  {
+    "Country_Name": "Israel",
+    "Country_Index": 83,
+    "Population": "9.2 million",
+    "GDP": "401.9 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Diamonds",
+    "Happiness_Score": "12"
+  },
+  {
+    "Country_Name": "Italy",
+    "Country_Index": 84,
+    "Population": "60.4 million",
+    "GDP": "2.1 trillion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Packaged Medicaments",
+    "Happiness_Score": "28"
+  },
+  {
+    "Country_Name": "Jamaica",
+    "Country_Index": 85,
+    "Population": "2.9 million",
+    "GDP": "14.77 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Aluminum Oxide",
+    "Happiness_Score": "65"
+  },
+  {
+    "Country_Name": "Japan",
+    "Country_Index": 86,
+    "Population": "126.3 million",
+    "GDP": "5.08 trillion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "58"
+  },
+  {
+    "Country_Name": "Jordan",
+    "Country_Index": 87,
+    "Population": "10.2 million",
+    "GDP": "43.74 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Clothing",
+    "Happiness_Score": "100"
+  },
+  {
+    "Country_Name": "Kazakhstan",
+    "Country_Index": 88,
+    "Population": "18.8 million",
+    "GDP": "170.54 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "70"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Country_Index": 89,
+    "Population": "53.7 million",
+    "GDP": "95.5 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Tea",
+    "Happiness_Score": "121"
+  },
+  {
+    "Country_Name": "Kiribati",
+    "Country_Index": 90,
+    "Population": "119,000",
+    "GDP": "185.6 million USD",
+    "Largest_Import": "Boats",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Kuwait",
+    "Country_Index": 91,
+    "Population": "4.3 million",
+    "GDP": "136.5 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "57"
+  },
+  {
+    "Country_Name": "Kyrgyzstan",
+    "Country_Index": 92,
+    "Population": "6.5 million",
+    "GDP": "7.65 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "92"
+  },
+  {
+    "Country_Name": "Laos",
+    "Country_Index": 93,
+    "Population": "7.3 million",
+    "GDP": "18.17 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Electricity",
+    "Happiness_Score": "105"
+  },
+  {
+    "Country_Name": "Latvia",
+    "Country_Index": 94,
+    "Population": "1.9 million",
+    "GDP": "34.29 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Sawn Wood",
+    "Happiness_Score": "53"
+  },
+  {
+    "Country_Name": "Lebanon",
+    "Country_Index": 95,
+    "Population": "6.8 million",
+    "GDP": "N/A",
+    "Largest_Import": "Petroleum Gas",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "93"
+  },
+  {
+    "Country_Name": "Lesotho",
+    "Country_Index": 96,
+    "Population": "2.1 million",
+    "GDP": "2.58 billion USD",
+    "Largest_Import": "Light Rubberized Knitted Fabric",
+    "Largest_Export": "Clothing",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Liberia",
+    "Country_Index": 97,
+    "Population": "5.1 million",
+    "GDP": "3.29 billion USD",
+    "Largest_Import": "Passenger and Cargo Ships",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "150"
+  },
+  {
+    "Country_Name": "Libya",
+    "Country_Index": 98,
+    "Population": "6.9 million",
+    "GDP": "50.95 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "80"
+  },
+  {
+    "Country_Name": "Liechtenstein",
+    "Country_Index": 99,
+    "Population": "38,128",
+    "GDP": "N/A",
+    "Largest_Import": "Packaged Medicaments",
+    "Largest_Export": "Gold",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Lithuania",
+    "Country_Index": 100,
+    "Population": "2.8 million",
+    "GDP": "54.22 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "34"
+  },
+  {
+    "Country_Name": "Luxembourg",
+    "Country_Index": 101,
+    "Population": "625,978",
+    "GDP": "71.1 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "7"
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Country_Index": 102,
+    "Population": "27.7 million",
+    "GDP": "12.7 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Vanilla",
+    "Happiness_Score": "143"
+  },
+  {
+    "Country_Name": "Malawi",
+    "Country_Index": 103,
+    "Population": "19 million",
+    "GDP": "7.07 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Raw Tobacco",
+    "Happiness_Score": "129"
+  },
+  {
+    "Country_Name": "Malaysia",
+    "Country_Index": 104,
+    "Population": "32.4 million",
+    "GDP": "364.7 billion USD",
+    "Largest_Import": "Integrated Circuits",
+    "Largest_Export": "Integrated Circuits",
+    "Happiness_Score": "35"
+  },
+  {
+    "Country_Name": "Maldives",
+    "Country_Index": 105,
+    "Population": "540,544",
+    "GDP": "4.92 billion USD",
+    "Largest_Import": "Ships",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Mali",
+    "Country_Index": 106,
+    "Population": "20.3 million",
+    "GDP": "17.4 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "115"
+  },
+  {
+    "Country_Name": "Malta",
+    "Country_Index": 107,
+    "Population": "441,543",
+    "GDP": "14.5 billion USD",
+    "Largest_Import": "Planes, Helicopters, and/or Spacecraft",
+    "Largest_Export": "Packaged Medicaments",
+    "Happiness_Score": "22"
+  },
+  {
+    "Country_Name": "Marshall Islands",
+    "Country_Index": 108,
+    "Population": "59,190",
+    "GDP": "219 million USD",
+    "Largest_Import": "Passenger and Cargo Ships",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Mauritania",
+    "Country_Index": 109,
+    "Population": "4.5 million",
+    "GDP": "7.6 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Iron Ore",
+    "Happiness_Score": "130"
+  },
+  {
+    "Country_Name": "Mauritius",
+    "Country_Index": 110,
+    "Population": "1.3 million",
+    "GDP": "13.3 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Processed Fish",
+    "Happiness_Score": "49"
+  },
+  {
+    "Country_Name": "Mexico",
+    "Country_Index": 111,
+    "Population": "128.9 million",
+    "GDP": "1.04 trillion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "36"
+  },
+  {
+    "Country_Name": "Micronesia",
+    "Country_Index": 112,
+    "Population": "113,815",
+    "GDP": "336 million USD",
+    "Largest_Import": "Passenger and Cargo Ships",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Moldova",
+    "Country_Index": 113,
+    "Population": "2.6 million",
+    "GDP": "11.95 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Insulated Wire",
+    "Happiness_Score": "67"
+  },
+  {
+    "Country_Name": "Monaco",
+    "Country_Index": 114,
+    "Population": "39,242",
+    "GDP": "N/A",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Artwork",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Mongolia",
+    "Country_Index": 115,
+    "Population": "3.3 million",
+    "GDP": "13.4 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coal Briquettes",
+    "Happiness_Score": "92"
+  },
+  {
+    "Country_Name": "Montenegro",
+    "Country_Index": 116,
+    "Population": "628,066",
+    "GDP": "5.47 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Aluminium",
+    "Happiness_Score": "73"
+  },
+  {
+    "Country_Name": "Morocco",
+    "Country_Index": 117,
+    "Population": "36.9 million",
+    "GDP": "119 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "89"
+  },
+  {
+    "Country_Name": "Mozambique",
+    "Country_Index": 118,
+    "Population": "31.3 million",
+    "GDP": "14.72 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coal Briquettes",
+    "Happiness_Score": "123"
+  },
+  {
+    "Country_Name": "Myanmar",
+    "Country_Index": 119,
+    "Population": "54.4 million",
+    "GDP": "76.09 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Natural Gas",
+    "Happiness_Score": "126"
+  },
+  {
+    "Country_Name": "Namibia",
+    "Country_Index": 120,
+    "Population": "2.5 million",
+    "GDP": "11.8 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Uranium",
+    "Happiness_Score": "113"
+  },
+  {
+    "Country_Name": "Nauru",
+    "Country_Index": 121,
+    "Population": "10,824",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Phosphates",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Nepal",
+    "Country_Index": 122,
+    "Population": "29.1 million",
+    "GDP": "34 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Knotted Carpets",
+    "Happiness_Score": "92"
+  },
+  {
+    "Country_Name": "Netherlands",
+    "Country_Index": 123,
+    "Population": "17.4 million",
+    "GDP": "913 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "5"
+  },
+  {
+    "Country_Name": "New Zealand",
+    "Country_Index": 124,
+    "Population": "4.9 million",
+    "GDP": "206 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Concentrated Milk",
+    "Happiness_Score": "9"
+  },
+  {
+    "Country_Name": "Nicaragua",
+    "Country_Index": 125,
+    "Population": "6.6 million",
+    "GDP": "12.5 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Knit T-shirts",
+    "Happiness_Score": "69"
+  },
+  {
+    "Country_Name": "Niger",
+    "Country_Index": 126,
+    "Population": "24.2 million",
+    "GDP": "12.9 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Uranium",
+    "Happiness_Score": "134"
+  },
+  {
+    "Country_Name": "Nigeria",
+    "Country_Index": 127,
+    "Population": "206 million",
+    "GDP": "432.3 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "116"
+  },
+  {
+    "Country_Name": "North Korea",
+    "Country_Index": 128,
+    "Population": "25.7 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coal Briquettes",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "North Macedonia",
+    "Country_Index": 129,
+    "Population": "2.1 million",
+    "GDP": "12.8 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Ferroalloys",
+    "Happiness_Score": "84"
+  },
+  {
+    "Country_Name": "Norway",
+    "Country_Index": 130,
+    "Population": "5.4 million",
+    "GDP": "403 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "3"
+  },
+  {
+    "Country_Name": "Oman",
+    "Country_Index": 131,
+    "Population": "5.1 million",
+    "GDP": "76.3 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "69"
+  },
+  {
+    "Country_Name": "Pakistan",
+    "Country_Index": 132,
+    "Population": "220 million",
+    "GDP": "278.2 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "House Linens",
+    "Happiness_Score": "105"
+  },
+  {
+    "Country_Name": "Palau",
+    "Country_Index": 133,
+    "Population": "18,094",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Palestine",
+    "Country_Index": 134,
+    "Population": "5.1 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Olive Oil",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Panama",
+    "Country_Index": 135,
+    "Population": "4.3 million",
+    "GDP": "66.8 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "31"
+  },
+  {
+    "Country_Name": "Papua New Guinea",
+    "Country_Index": 136,
+    "Population": "8.9 million",
+    "GDP": "24.97 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Petroleum Gas",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Paraguay",
+    "Country_Index": 137,
+    "Population": "7.1 million",
+    "GDP": "38.15 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Soybeans",
+    "Happiness_Score": "63"
+  },
+  {
+    "Country_Name": "Peru",
+    "Country_Index": 138,
+    "Population": "32.9 million",
+    "GDP": "226.8 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Copper Ore",
+    "Happiness_Score": "65"
+  },
+  {
+    "Country_Name": "Philippines",
+    "Country_Index": 139,
+    "Population": "109 million",
+    "GDP": "361.5 billion USD",
+    "Largest_Import": "Integrated Circuits",
+    "Largest_Export": "Integrated Circuits",
+    "Happiness_Score": "61"
+  },
+  {
+    "Country_Name": "Poland",
+    "Country_Index": 140,
+    "Population": "38 million",
+    "GDP": "594.2 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Vehicle Parts",
+    "Happiness_Score": "42"
+  },
+  {
+    "Country_Name": "Portugal",
+    "Country_Index": 141,
+    "Population": "10.3 million",
+    "GDP": "237.7 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "58"
+  },
+  {
+    "Country_Name": "Qatar",
+    "Country_Index": 142,
+    "Population": "2.8 million",
+    "GDP": "183.5 billion USD",
+    "Largest_Import": "Planes, Helicopters, and/or Spacecraft",
+    "Largest_Export": "Petroleum Gas",
+    "Happiness_Score": "29"
+  },
+  {
+    "Country_Name": "Romania",
+    "Country_Index": 143,
+    "Population": "19.4 million",
+    "GDP": "248.7 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Vehicle Parts",
+    "Happiness_Score": "48"
+  },
+  {
+    "Country_Name": "Russia",
+    "Country_Index": 144,
+    "Population": "144.1 million",
+    "GDP": "1.48 trillion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "76"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Country_Index": 145,
+    "Population": "12.6 million",
+    "GDP": "10.21 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coffee",
+    "Happiness_Score": "150"
+  },
+  {
+    "Country_Name": "Saint Kitts and Nevis",
+    "Country_Index": 146,
+    "Population": "53,199",
+    "GDP": "1.05 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Recreational Boats",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Saint Lucia",
+    "Country_Index": 147,
+    "Population": "183,627",
+    "GDP": "1.77 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Bananas",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Saint Vincent and the Grenadines",
+    "Country_Index": 148,
+    "Population": "110,940",
+    "GDP": "0.81 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Tug Boats",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Samoa",
+    "Country_Index": 149,
+    "Population": "196,130",
+    "GDP": "0.84 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Non-fillet Frozen Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "San Marino",
+    "Country_Index": 150,
+    "Population": "33,931",
+    "GDP": "N/A",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Building Stone",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Sao Tome and Principe",
+    "Country_Index": 151,
+    "Population": "219,159",
+    "GDP": "0.42 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Cocoa Beans",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Country_Index": 152,
+    "Population": "34.8 million",
+    "GDP": "793.97 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "28"
+  },
+  {
+    "Country_Name": "Senegal",
+    "Country_Index": 153,
+    "Population": "16.7 million",
+    "GDP": "24.13 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Non-fillet Frozen Fish",
+    "Happiness_Score": "111"
+  },
+  {
+    "Country_Name": "Serbia",
+    "Country_Index": 154,
+    "Population": "6.9 million",
+    "GDP": "51.48 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Insulated Wire",
+    "Happiness_Score": "63"
+  },
+  {
+    "Country_Name": "Seychelles",
+    "Country_Index": 155,
+    "Population": "98,347",
+    "GDP": "1.59 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Sierra Leone",
+    "Country_Index": 156,
+    "Population": "7.9 million",
+    "GDP": "4.1 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Titanium Ore",
+    "Happiness_Score": "129"
+  },
+  {
+    "Country_Name": "Singapore",
+    "Country_Index": 157,
+    "Population": "5.7 million",
+    "GDP": "372 billion USD",
+    "Largest_Import": "Integrated Circuits",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "34"
+  },
+  {
+    "Country_Name": "Slovakia",
+    "Country_Index": 158,
+    "Population": "5.5 million",
+    "GDP": "105.42 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "38"
+  },
+  {
+    "Country_Name": "Slovenia",
+    "Country_Index": 159,
+    "Population": "2.1 million",
+    "GDP": "54 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "29"
+  },
+  {
+    "Country_Name": "Solomon Islands",
+    "Country_Index": 160,
+    "Population": "686,884",
+    "GDP": "1.4 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Rough Wood",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Somalia",
+    "Country_Index": 161,
+    "Population": "15.9 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Livestock",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "South Africa",
+    "Country_Index": 162,
+    "Population": "59.3 million",
+    "GDP": "351.43 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "103"
+  },
+  {
+    "Country_Name": "South Korea",
+    "Country_Index": 163,
+    "Population": "51.3 million",
+    "GDP": "1.63 trillion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Integrated Circuits",
+    "Happiness_Score": "62"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Country_Index": 164,
+    "Population": "11.2 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Spain",
+    "Country_Index": 165,
+    "Population": "46.7 million",
+    "GDP": "1.28 trillion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "30"
+  },
+  {
+    "Country_Name": "Sri Lanka",
+    "Country_Index": 166,
+    "Population": "21.8 million",
+    "GDP": "84 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Tea",
+    "Happiness_Score": "130"
+  },
+  {
+    "Country_Name": "Sudan",
+    "Country_Index": 167,
+    "Population": "43.8 million",
+    "GDP": "30.87 billion USD",
+    "Largest_Import": "Wheat",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "156"
+  },
+  {
+    "Country_Name": "Suriname",
+    "Country_Index": 168,
+    "Population": "586,632",
+    "GDP": "3.32 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "94"
+  },
+  {
+    "Country_Name": "Swaziland",
+    "Country_Index": 169,
+    "Population": "1.1 million",
+    "GDP": "4.47 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Sugar",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Sweden",
+    "Country_Index": 170,
+    "Population": "10.3 million",
+    "GDP": "538 billion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "7"
+  },
+  {
+    "Country_Name": "Switzerland",
+    "Country_Index": 171,
+    "Population": "8.6 million",
+    "GDP": "703 billion USD",
+    "Largest_Import": "Gold",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "3"
+  },
+  {
+    "Country_Name": "Syria",
+    "Country_Index": 172,
+    "Population": "17.5 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Olive Oil",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Taiwan",
+    "Country_Index": 173,
+    "Population": "23.8 million",
+    "GDP": "589.4 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Integrated Circuits",
+    "Happiness_Score": "25"
+  },
+  {
+    "Country_Name": "Tajikistan",
+    "Country_Index": 174,
+    "Population": "9.5 million",
+    "GDP": "7.52 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "106"
+  },
+  {
+    "Country_Name": "Tanzania",
+    "Country_Index": 175,
+    "Population": "59.7 million",
+    "GDP": "62.4 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "148"
+  },
+  {
+    "Country_Name": "Thailand",
+    "Country_Index": 176,
+    "Population": "69.8 million",
+    "GDP": "501.7 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Office Machine Parts",
+    "Happiness_Score": "54"
+  },
+  {
+    "Country_Name": "Timor-Leste",
+    "Country_Index": 177,
+    "Population": "1.3 million",
+    "GDP": "1.8 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Togo",
+    "Country_Index": 178,
+    "Population": "8.3 million",
+    "GDP": "5.84 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Refined Petroleum",
+    "Happiness_Score": "139"
+  },
+  {
+    "Country_Name": "Tonga",
+    "Country_Index": 179,
+    "Population": "105,695",
+    "GDP": "0.5 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Non-fillet Frozen Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Trinidad and Tobago",
+    "Country_Index": 180,
+    "Population": "1.4 million",
+    "GDP": "22 billion USD",
+    "Largest_Import": "Crude Petroleum",
+    "Largest_Export": "Petroleum Gas",
+    "Happiness_Score": "39"
+  },
+  {
+    "Country_Name": "Tunisia",
+    "Country_Index": 181,
+    "Population": "11.7 million",
+    "GDP": "39.95 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Insulated Wire",
+    "Happiness_Score": "111"
+  },
+  {
+    "Country_Name": "Turkey",
+    "Country_Index": 182,
+    "Population": "84 million",
+    "GDP": "761 billion USD",
+    "Largest_Import": "Gold",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "104"
+  },
+  {
+    "Country_Name": "Turkmenistan",
+    "Country_Index": 183,
+    "Population": "6 million",
+    "GDP": "42.35 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Petroleum Gas",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Tuvalu",
+    "Country_Index": 184,
+    "Population": "11,792",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Uganda",
+    "Country_Index": 185,
+    "Population": "45.7 million",
+    "GDP": "34.39 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Coffee",
+    "Happiness_Score": "125"
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Country_Index": 186,
+    "Population": "41.4 million",
+    "GDP": "155.5 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Corn",
+    "Happiness_Score": "110"
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    "Country_Index": 187,
+    "Population": "9.9 million",
+    "GDP": "421 billion USD",
+    "Largest_Import": "Gold",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "21"
+  },
+  {
+    "Country_Name": "United Kingdom",
+    "Country_Index": 188,
+    "Population": "68 million",
+    "GDP": "2.83 trillion USD",
+    "Largest_Import": "Cars",
+    "Largest_Export": "Cars",
+    "Happiness_Score": "17"
+  },
+  {
+    "Country_Name": "Uruguay",
+    "Country_Index": 189,
+    "Population": "3.5 million",
+    "GDP": "56 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Soybeans",
+    "Happiness_Score": "28"
+  },
+  {
+    "Country_Name": "Uzbekistan",
+    "Country_Index": 190,
+    "Population": "33.9 million",
+    "GDP": "57.92 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "41"
+  },
+  {
+    "Country_Name": "Vanuatu",
+    "Country_Index": 191,
+    "Population": "307,145",
+    "GDP": "0.89 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Non-fillet Frozen Fish",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Vatican City",
+    "Country_Index": 192,
+    "Population": "800",
+    "GDP": "N/A",
+    "Largest_Import": "N/A",
+    "Largest_Export": "N/A",
+    "Happiness_Score": ""
+  },
+  {
+    "Country_Name": "Venezuela",
+    "Country_Index": 193,
+    "Population": "28.5 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "108"
+  },
+  {
+    "Country_Name": "Vietnam",
+    "Country_Index": 194,
+    "Population": "97.3 million",
+    "GDP": "261 billion USD",
+    "Largest_Import": "Integrated Circuits",
+    "Largest_Export": "Broadcasting Equipment",
+    "Happiness_Score": "94"
+  },
+  {
+    "Country_Name": "Yemen",
+    "Country_Index": 195,
+    "Population": "29.8 million",
+    "GDP": "N/A",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Crude Petroleum",
+    "Happiness_Score": "146"
+  },
+  {
+    "Country_Name": "Zambia",
+    "Country_Index": 196,
+    "Population": "18.4 million",
+    "GDP": "23 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Raw Copper",
+    "Happiness_Score": "138"
+  },
+  {
+    "Country_Name": "Zimbabwe",
+    "Country_Index": 197,
+    "Population": "14.9 million",
+    "GDP": "21 billion USD",
+    "Largest_Import": "Refined Petroleum",
+    "Largest_Export": "Gold",
+    "Happiness_Score": "131"
+  }
+]
